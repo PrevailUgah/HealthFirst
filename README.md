@@ -71,4 +71,4 @@ While this prototype successfully validates local offline storage and data struc
 
 This project is open-source and built for educational and social innovation frameworks under the AIMS SDGs Challenge parameters.
 
-Developed with 💻 and 🧠 by Prevail Bitrus Uga
+Developed with 💻 and 🧠 by Prevail Bitrus Ugah
