@@ -1,4 +1,4 @@
-# Health First 🩺📦
+# HealthFirst 🩺📦
 
 An Offline-First Digital Health & Inventory Management System for Primary Healthcare Centers
 
@@ -6,7 +6,7 @@ An Offline-First Digital Health & Inventory Management System for Primary Health
 
 In many underserved and rural areas across Nigeria, Primary Healthcare Centers (PHCs) still rely entirely on paper registers and manual logbooks. This structural digital divide leads to severe consequences: fragmented or lost patient histories, critical medication stockouts, and a total lack of real-time data for regional health authorities to respond to localized disease trends.
 
-PHC Care & Stock Tracker is a lightweight, purpose-built, and offline-first digital prototype designed to bridge this gap. It empowers frontline healthcare workers to register patient check-ins and dispense medications while automatically tracking local pharmacy inventory levels—completely independent of an internet connection.
+HealthFirst is a lightweight, purpose-built, and offline-first digital prototype designed to bridge this gap. It empowers frontline healthcare workers to register patient check-ins and dispense medications while automatically tracking local pharmacy inventory levels—completely independent of an internet connection.
 
 This project was developed as a technical solution for the AIMS SDGs Innovation Challenge, directly addressing SDG 3: Good Health and Well-Being.
 
@@ -28,7 +28,7 @@ This prototype is engineered to be exceptionally lightweight, fast, and optimize
 ## 📁 Repository Structure
 
 ```plaintext
-phc-health-tracker/
+HealthFirst/
 │
 ├── index.html       # Structural layout and UI components of the dashboard
 ├── style.css        # Clean, accessible design rules and layout configurations
@@ -50,7 +50,7 @@ Because this prototype is written natively in vanilla web technologies, it requi
 1. Clone or download this repository to your computer:
 
 ```bash
-git clone https://github.com/yourusername/phc-health-tracker.git
+git clone https://github.com/yourusername/HealthFirst.git
 ```
 
 2. Navigate into the project folder.
