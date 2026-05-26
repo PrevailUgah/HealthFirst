@@ -50,7 +50,7 @@ Because this prototype is written natively in vanilla web technologies, it requi
 1. Clone or download this repository to your computer:
 
 ```bash
-git clone https://github.com/yourusername/HealthFirst.git
+git clone https://github.com/PrevailUgah/HealthFirst.git
 ```
 
 2. Navigate into the project folder.
