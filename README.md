@@ -1,5 +1,7 @@
 # HealthFirst 🩺📦
 
+[View the Live Demo Here](https://prevailugah.github.io/HealthFirst/)
+
 An Offline-First Digital Health & Inventory Management System for Primary Healthcare Centers
 
 ## 📌 Project Overview
